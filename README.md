@@ -1,2 +1,2 @@
 # AKGulid.github.io
-AKGulid.github.io
+https://AKGulid.github.io
