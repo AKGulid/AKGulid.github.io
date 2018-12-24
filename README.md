@@ -1,2 +1,2 @@
 # AKGulid.github.io
-мой первый хостинг
+AKGulid.github.io
